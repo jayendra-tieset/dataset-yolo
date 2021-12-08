@@ -1,0 +1,5 @@
+train: dataset/data_negi/train/images
+val: dataset/data_negi/valid/images
+
+nc: 3
+names: ['FISH', 'MEAT', 'VEGETABLE']
